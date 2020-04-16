@@ -1,2 +1,0 @@
-# sseleman.github.io
-website
