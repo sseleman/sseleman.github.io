@@ -5,7 +5,8 @@ When in 1984 Herwart “Wau” Holland and Steffen Wernery announced their “ha
 1 The Deutsche Bundespost modeled Btx on the UK system PRESTEL and the French Minitel, which  both had been designed and rolled out in their respective countries during the late 1970s.  PRESTEL has also been the inspiration for the system Viewtron which has been offered by the  companies Knight-Ridder and AT&T in the USA between 1983 and 1986. Like eventually Btx and  PRESTEL, Viewtron failed to meet the expectations and is now regarded as an economical  failure. However, their common screen-oriented design patterns—from 24 characters in 40 lines  up to simple, yet colorful graphics—survived in the different teletext systems. Developed as  standard for teletext informations broadcasted over television signals in the UK in the  1970s, European and American television companies adopted it in different incarnations during  the 1980s—as World System Teletext (WST) in the USA and as Videotext in Germany, for  instance. Again while Videotext soon gained momentum in Europe where it is still popular  today, only a few WST services took root in the USA.
 K. Denker (*)
 Department of Philosophy, Technische Universitдt Darmstadt, Darmstadt, Germany e-mail:  denker@phil.tu-darmstadt.de
-G. Alberts and R. Oldenziel (eds.), Hacking Europe. From Computer Cultures	167
+G. Alberts and R. Oldenziel (eds.), Hacking Europe. From Computer Cultures	
+                                     *167*
 to Demoscenes, History of Computing, DOI 10.1007/978-1-4471-5493-8_8,
 © Springer-Verlag London 2014
                                      *168*
@@ -357,7 +358,8 @@ The Center for Cooperative Technology, led by professor Gerard de Zeeuw, support
 46A recent ruling (March 9, 2011) held that hacking into a Wi-Fi network was not a crime  under Dutch Law (Article 138a) that strictly covers breaching the security of a physical  computer.
 9 How Amsterdam Invented the Internet
                                      *201*
-(?) 6?????1? HMXU fаtty ™ IOTA'83™
+https://imgur.com/SkXxVA5
+
 Fig. 9.1 ‘ ‘Your Network: An Artist’s Impression.” This sketch was created in preparation for  the Galactic Hacker Party at the Paradiso in Amsterdam in 1989. A schematic diagram showing  both the machines located at the event and the connections abroad, its simple, accessible  form reflects the goals of the organizers: to demystify the Internet by turning it into a  participatory technology. Source: International Institute for Social History in Amsterdam
 found in the South instead of the North, because there they are no longer trying to see it as  a universal possibility for communication.”47 For the event, the organizers created a  computer infrastructure (Fig. 9.1) connecting Paradiso with other regions
 47 “Link with Nairobi,” ICATA 1989 draft proceedings, Nevejan Archive, Galactic Hacker Party.
@@ -381,16 +383,9 @@ The second installment of the event occurred under radically changed circumstanc
 57Artists who contributed to the first ever online art gallery were Max Kisman, Peter  Mertens, and Jan Dietvorst among others. Unfortunately, due to digital erosion, the art  gallery no longer exists.
                                      *204*
 C. Nevejan and A. Badenoch
-oeo
-THE SEROPOSITIVE
-???on LINE FOR AIDS 90
-HOW AIDS CHANGES OUR WORLD
-TW UtOPOVTrvi ua «	?	ruiono U.Nr*· · · ???? ?·?«· ·' ? W< Wmm tea* }l I / 00 tei  aatf tea* ft 1« 00 te> · ???· <*«k ???
-UUDUn OO Uhhi»| *1 ????«·. illU»	?»?/?«1??<· ?????? «•i1··. ,«¦ WVC Ate» ?· 1MTINU  KunWt StlMI
-?? (im	V« 1? ??#? I(«?? ?· tlih· P»a«*«t tfw (·* ?? i M* (?? AO MOW »« "Outs «?   n Tirfirmi  *a Ui
-lurf hdil for ?J Uoi /10,· / lid·« ?·» ? ??? /2$.· (· wmfcnv>wp ILJ·)
-PAIACXSO Wftfnaftdwt »1. 1017 SC A·»»«*··. tW fetWW·* Urpfci·. . ]| 70 2A4S7I /.JIM 7)7 ? f«i  . J| 70 777771.
-( MAH po.·*» ???» * MC mi ft00*AM ON II0UIST
+
+https://imgur.com/CU4ABIa
+
 Fig. 9.2 Poster for the Seropositive Ball, ICATA 1990. Created by Jan Dietvorst, this simple,  yet visually powerful design of a gold circle in an ‘Yves Klein’ blue square captures both  the “zero” implied in the title, as well as the global nature of the crisis. The colors  sought to evoke both the feelings of celebration and mourning represented by the event.  Although hung mostly in the Netherlands, its text in English projected the underlining  international community the poster was addressing within and beyond the city of Amsterdam
 organization established public access points with Act Up in San Francisco, Simon Watson’s  Project Space in New York, several Amsterdam bookshops, and Paradiso. Some AIDS patients at  home were connected as well. Computer company Apple
 ICATA
@@ -446,6 +441,9 @@ Digital City was an instant success. Within months it had over 10,000 inhabitant
 78 Digital City 1.0 was designed by Marleen Stikker and Felipe Rodriguez. Digital City 3.0  was designed by Michael van Eeden, Marjolein Ruyg, Rob van der Haar, and Marleen Stikker.
                                      *210*
 C. Nevejan and A. Badenoch
+
+https://imgur.com/wmEyYJw
+
 Fig. 9.3 Envisioning the Internet: It was 1994: the emerging Internet was still clunky, still  steeped in the culture of the military and engineering, from which it came. Enter the Dutch  “Digital City” project, an alliance of activists, squatters, and members of local government.  These pioneering users broke with engineering-based interfaces of letters and code. Building  on this ground breaking start, the design continued to develop rapidly, resulting in this  third, updated interface introduced in 1995. This image—and Digital City’s approach—imagines  the Internet as a city unto itself. Each octagon on the screen represents different activist  groups in the city, from Gay Square to news-junkie politicos, side-by-side in the city  everyday institutions and places, such as city hall and the city library. Source: published  online at re: DDS http://re-dds.nl/vondsten/FolderDDS3-telnr.pdf under creative commons  licence CC BY-NC-SA 3.0 NL
 van der Haar, Digital City boasted one of the most advanced appearances of an Internet City  worldwide (Fig. 9.3). By inventing “interaction design” in the process, software developers  and graphic designers were jointly engaging in a method to understand and create interaction.  All their efforts were directed at facilitating the thousands of digital citizens who  demanded services no one had thought of before. Not only interaction design but also  participatory design and community management had to be invented on the fly. It was a  constant conversation between developers, designers, and citizens exploring suggestions  immediately and generating an exponential growth of ideas and manifestations of online life.  Hackers, artists, and activists were crucial in the evolving dynamic.79
 Citizens of Digital City were invited to create their own profile so others could see who was  online. One could become a visitor or an inhabitant of Digital City,
@@ -530,15 +528,3 @@ Slater, Don. 2003. Modernity under construction: Building the Internet in Trinid
 Stappers, James, Frank Olderaan, and Pieter de Wit. 1991. The Netherlands: Emergence of a new  medium. In The people’s voice: Local radio and television in Europe, ed. Nick Jankowski, Ole  Prehn, and James Stappers, 90-103. London: John Libbey. van Bergeijk, Jeroen, Geke van Dijk,  Karel Koch, and Bas Raimakers (eds.). 1992. N5M Zapbook: Working papers. Amsterdam: Paradiso.  http://www.tacticalmediafiles.net/TMF_documents/ N5Mzapbook.pdf, esp. 25. Last accessed 6 Oct  2011. van den Boomen, Marianne. 1995. “Digitale Steden en virtuele Gemeenschappen,” excerpt  from Marianne van den Boomen. In Internet-ABC voor vrouwen. Amsterdam: Institut voor Politiek  en Publiek. http://www.xs4all.nl~boom/hs8.html. Accessed 15 June 2011. van Tijen, Tjebbe.  1966. 1966: Provo’s Witte Huizenplan/White House Plan of Provo movement. Witplan.  http://witplan.wordpress.com/1966/04/25/provos-witte-huizenplanwhite-house-plan-ofprovo- movement/. Accessed 31 Mar 2013. van Tijen, Tjebbe. 1990. Europa tegen de stroom. De Gids  153(6): 466-471 [English translation available online Going against the grain, Europe against  the current. http://www.imaginarymuseum. org/ETS/ETSeng.html. Accessed 30 Jan 2014] van  Tijen, Tjebbe. 1993. A context for collecting the new media. In Next 5Minutes Video  Catalogue, catalogue of videotapes shown during the festival on tactical television held in  Paradiso Amsterdam, 8-10 January 1993, ed. Bas Raijmakers and Tjebbe van Tijen. Amsterdam:  International Institute of Social History. Online at  http://socialhistory.org/sites/default/files/ docs/collecting-new-media.pdf. Accessed 1 Apr  2013. van Tijen, Tjebbe. 1992. Vrije culturele ruimtes. In Gebroken wit: politiek van de  kleine verhalen, ed. Mascarpone, Irene Janze, et al. Amsterdam: Ravijn. [Available online as  Tjebbe van Tijen. 2004. Vrije Culturele Ruimtes. http://imaginarymuseum.org/VKULT. Last  accessed 16 July 2011]
 Veraart, Frank. 2008c. Vormgevers van Persoonlijk Computergebruik: De ontwikkeling van  computers voor kleingebruikers in Nederland 1970-1990. PhD thesis, TU Eindhoven.
 Vlap, Annelies. 2011. Internet van en voor Nederland. Het verhaal van 25 jaar .nl, in 25 jaar  .nl. In Bex*communicatie. Anniversary Publication SIDN, 30-40. Arnhem: Stichting Internet  Domeinregistratie Nederland.
-Chapter 10
-Users in the Dark: The Development of a User-Controlled Technology in the Czech Wireless  Network Community
-Johan Sцderberg
-10.1	Introduction
-About 10 years ago, if you happened to be standing on a rooftop in a Czech town looking out  into the night sky, your attention might well have been drawn to some red lights glowing on  the horizon. Perhaps an association to cyberpunk would have crossed your mind. Such aesthetic  sensibilities were indeed cultivated by the members of the wireless network community who  built the light-transmitting devices. Where the onlooker saw red light beams, there were in  fact streams of data crossing back and forth over the rooftops. Many of the wireless network  activists were students living in rented flats in large tower blocks. Some of them had  elderly neighbors who did not share their appreciation for cyberpunk aesthetic. Furthermore,  those neighbors tended to be the movers and shakers of local housing committees. They had the  authority, in other words, to tell the young residents to take down the devices from the  buildings. This happened frequently enough to motivate the wireless network community to  start looking for a technical solution to the dispute. They came up with a modified version  of the device where the data transmission took place in the infrared as opposed to the red  region of the electromagnetic spectrum. The technical performance with regard to range,  accuracy, and interference from rain and fog was roughly the same for both kinds of light.  The problem of interference from neighbors, however, was much reduced with infrared light.  The stream of data could now flow, cunningly, behind the backs of unwitting neighbors.
-The light-transmitting device was called “Ronja,” an abbreviation for Reasonable Optical Near  Joint Access. Invented in 2001 by Karel Kulhavy, the technology was widely used in the Czech  Republic for about 5 years. Ronja offered the cheapest,
-J. Sцderberg (*)
-Gцteborgs Universitet, Gцteborg, Sweden
-Laboratoire Techniques, Territoires et Sociйtйs/Institut Francilien Innovation et Sociйtй,  Universitй Paris-Est, Paris, France e-mail: johan.soderberg@sts.gu.se
-G. Alberts and R. Oldenziel (eds.), Hacking Europe. From Computer Cultures	219
-to Demoscenes, History of Computing, DOI 10.1007/978-1-4471-5493-8_10,
-© Springer-Verlag London 2014
